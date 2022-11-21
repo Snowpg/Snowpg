@@ -1,7 +1,7 @@
 ## Olá! Meu nome e Alexssandro Silva, Cientista de dados e Desenvolvedor Front-End muito prazer!
 
 
-- 🔭 Futuro Cientista de dados
+- 🔭 Futuro Estatístico
 - 🌱 Graduando de Estatística
 - 😄 Pronouns: ele/dele
 
