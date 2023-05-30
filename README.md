@@ -1,4 +1,4 @@
-## Olá! Meu nome e Alexssandro Silva, Cientista de dados e Desenvolvedor Front-End muito prazer!
+## Olá! Meu nome e Alexssandro Silva, Estatístico e Desenvolvedor Front-End muito prazer!
 
 
 - 🔭 Futuro Estatístico
